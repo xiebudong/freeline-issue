@@ -1,0 +1,167 @@
+{
+    "android_gradle_plugin_version": "2.2.2",
+    "apk_path": "/Users/Gary/as_workspace/demo/freeline-issue/app/build/outputs/apk/app-develop-debug.apk",
+    "apt": {
+        
+    },
+    "apt_libraries": {
+        "dagger": false,
+        "butterknife": false
+    },
+    "auto_dependency": true,
+    "build_cache_dir": "/Users/Gary/as_workspace/demo/freeline-issue/app/build/freeline",
+    "build_directory": "/Users/Gary/as_workspace/demo/freeline-issue/app/build",
+    "build_script": "./gradlew :app:assembleDevelopDebug",
+    "build_script_work_directory": "",
+    "build_tools_directory": "/Users/Gary/Library/Android/sdk/build-tools/24.0.0",
+    "build_tools_version": "24.0.0",
+    "compile_sdk_directory": "/Users/Gary/Library/Android/sdk/platforms/android-24",
+    "compile_sdk_version": "android-24",
+    "databinding": [
+        
+    ],
+    "databinding_compiler_jar": "",
+    "databinding_modules": [
+        
+    ],
+    "debug_package": "com.gaogao.testfreeline",
+    "exclude_dep_res_paths": [
+        
+    ],
+    "extra_dep_res_paths": [
+        
+    ],
+    "freeline_cache_dir": "/Users/Gary/as_workspace/demo/freeline-issue",
+    "freeline_gradle_plugin_version": "0.8.4",
+    "java_home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home",
+    "launcher": "com.gaogao.testfreeline.MainActivity",
+    "main_assets_directory": [
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/developDebug/assets",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/debug/assets",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/develop/assets",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/main/assets"
+    ],
+    "main_jniLibs_directory": [
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/developDebug/jniLibs",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/debug/jniLibs",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/develop/jniLibs",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/main/jniLibs"
+    ],
+    "main_jni_directory": [
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/developDebug/jni",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/debug/jni",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/develop/jni",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/main/jni"
+    ],
+    "main_manifest_path": "/Users/Gary/as_workspace/demo/freeline-issue/app/src/main/AndroidManifest.xml",
+    "main_project_dir": "app",
+    "main_project_name": "app",
+    "main_r_path": "/Users/Gary/as_workspace/demo/freeline-issue/app/build/generated/source/r/develop/debug/R.java",
+    "main_res_directory": [
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/developDebug/res",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/debug/res",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/develop/res",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/main/res"
+    ],
+    "main_src_directory": [
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/developDebug/java",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/debug/java",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/develop/java",
+        "/Users/Gary/as_workspace/demo/freeline-issue/app/src/main/java"
+    ],
+    "module_dependencies": {
+        "app": [
+            "liba"
+        ],
+        "liba": [
+            
+        ]
+    },
+    "modules": [
+        {
+            "name": "app",
+            "path": "/Users/Gary/as_workspace/demo/freeline-issue/app"
+        },
+        {
+            "name": "liba",
+            "path": "/Users/Gary/as_workspace/demo/freeline-issue/liba"
+        }
+    ],
+    "package": "com.gaogao.testfreeline",
+    "product_flavor": "develop",
+    "project_source_sets": {
+        "app": {
+            "main_assets_directory": [
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/developDebug/assets",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/debug/assets",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/develop/assets",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/main/assets"
+            ],
+            "main_jniLibs_directory": [
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/developDebug/jniLibs",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/debug/jniLibs",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/develop/jniLibs",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/main/jniLibs"
+            ],
+            "main_jni_directory": [
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/developDebug/jni",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/debug/jni",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/develop/jni",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/main/jni"
+            ],
+            "main_manifest_path": "/Users/Gary/as_workspace/demo/freeline-issue/app/src/main/AndroidManifest.xml",
+            "main_res_directory": [
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/developDebug/res",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/debug/res",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/develop/res",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/main/res"
+            ],
+            "main_src_directory": [
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/developDebug/java",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/debug/java",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/develop/java",
+                "/Users/Gary/as_workspace/demo/freeline-issue/app/src/main/java"
+            ]
+        },
+        "liba": {
+            "main_assets_directory": [
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/productDebug/assets",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/debug/assets",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/product/assets",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/main/assets"
+            ],
+            "main_jniLibs_directory": [
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/productDebug/jniLibs",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/debug/jniLibs",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/product/jniLibs",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/main/jniLibs"
+            ],
+            "main_jni_directory": [
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/productDebug/jni",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/debug/jni",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/product/jni",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/main/jni"
+            ],
+            "main_manifest_path": "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/main/AndroidManifest.xml",
+            "main_res_directory": [
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/productDebug/res",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/debug/res",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/product/res",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/main/res"
+            ],
+            "main_src_directory": [
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/productDebug/java",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/debug/java",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/product/java",
+                "/Users/Gary/as_workspace/demo/freeline-issue/liba/src/main/java"
+            ]
+        }
+    },
+    "project_type": "gradle",
+    "retrolambda": {
+        
+    },
+    "root_dir": "/Users/Gary/as_workspace/demo/freeline-issue",
+    "sdk_directory": "/Users/Gary/Library/Android/sdk",
+    "use_jdk8": true
+}
